@@ -1,3 +1,5 @@
+# Python program to add items, quantity and price and calculate them
+
 item = input("What item would liek to buy?: ")
 price = float(input("What is the price?: "))
 quantity = int(input("How many would you like?: "))
